@@ -77,7 +77,7 @@ var MainComp = function (_React$Component2) {
 	}, {
 		key: "componentDidUpdate",
 		value: function componentDidUpdate() {
-			console.log(this.props.langData);
+			console.log(this.props.langData[0]);
 		}
 	}, {
 		key: "render",
